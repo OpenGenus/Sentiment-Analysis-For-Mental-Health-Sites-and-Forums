@@ -6,7 +6,7 @@ Installation:
 
 * Clone the repository
 
-git clone https://github.com/AgnivaMaiti/Sentiment-Analysis-For-Mental-Health-Sites-and-Forums.git
+git clone https://github.com/OpenGenus/Sentiment-Analysis-For-Mental-Health-Sites-and-Forums.git
 
 * Navigate to the project directory
 
